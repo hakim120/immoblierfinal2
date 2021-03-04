@@ -27,8 +27,7 @@ margin-top: -5px;
  background-size: cover;
  height: 800px;
  margin-right: -20px;
- margin-left: -20px;
-
+ margin-left: -129px
   }
 body{
     overflow-x: hidden;
@@ -76,7 +75,7 @@ body{
     width: 500px;
 }
 p{
-    margin: 60px;
+    margin: 76px;
    font-family: 'Dosis', sans-serif;
 }
 
@@ -113,15 +112,66 @@ input[type=text] ,textarea {
   }
   .container8 {
     border-radius: 5px;
-    background-color: #f2f2f2;
+    background-color: #b5b1b1;
     padding: 20px;
     margin-top: 100px;
   }
   .moni{
     margin-left: 60%;
-    top: 595%;
+    top: 620%;
     position: absolute;
 
   }
-  .button { padding: 15px 32px;
-    background-color: #e7e7e7;}
+  div.element-6 button { 
+    margin-left: 115px;
+    padding: 15px 32px;
+    background-color: #929194;
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+      border-radius: 12px;
+  }
+.container11{
+  position: absolute;
+  margin-top: 50%;
+margin-bottom: 50%;
+}
+
+#ComboElargie{
+  width: 256px;
+  height: 39px;
+  z-index: 1;
+  
+}
+#conteneur10
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 162px;
+  margin-top: -261px;
+  width:100%;
+  height:90px;
+  background-color: #a5a2a2;
+  border: 1px solid black;
+  opacity: 0.6;
+
+  
+}
+div.element-11 input {
+
+  width: 100%;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  margin-top: -1px;
+  margin-bottom: 0px;
+  resize: horizontal;
+
+}
+div.element-15 button{
+  border-radius: 12px;
+  padding: 13px 41px;
+  text-align: center;
+}
+.container20{
+  height: 44px;
+  background-color: #b5b1b1;
+}
